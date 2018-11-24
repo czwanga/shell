@@ -5,13 +5,10 @@ Usage：
 
 1.edit config_list file,add need monitored ip port application
 
-  172.17.0.2 8080 tomcat
-  
-  172.17.0.1 6379 redis
-
-  192.168.18.203 80 nginx
-
-  172.16.14.158 3306 mysql
+    172.17.0.2 8080 tomcat
+    172.17.0.1 6379 redis
+    192.168.18.203 80 nginx
+    172.16.14.158 3306 mysql
          
 2.add crontab
 
