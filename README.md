@@ -3,7 +3,7 @@ Simple on-line monitoring server, service status and alarm are realized by shell
 
 Usage：
 
-1.edit config_list file,add need monitored ip port application
+1.edit config_list.txt file,add need monitored ip port application
 
     172.17.0.2 8080 tomcat
     172.17.0.1 6379 redis
