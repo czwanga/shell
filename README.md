@@ -3,11 +3,11 @@ Simple on-line monitoring server, service status and alarm are realized by shell
 
 Function introduction
 
-&nbsp;&nbsp;&nbsp;monitoring server alive
+* monitoring server alive
   
-&nbsp;&nbsp;&nbsp;monitoring port
+* monitoring port
 
-&nbsp;&nbsp;&nbsp;email alarm
+* email alarm
 
 
 Usage：
