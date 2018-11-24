@@ -3,11 +3,11 @@ Simple on-line monitoring server, service status and alarm are realized by shell
 
 Function introduction
 
-monitoring server alive
+&nbsp;&nbsp;&nbsp;monitoring server alive
+  
+&nbsp;&nbsp;&nbsp;monitoring port
 
-monitoring port
-
-email alarm
+&nbsp;&nbsp;&nbsp;email alarm
 
 
 Usage：
@@ -25,9 +25,9 @@ Usage：
 
 Monitoring graphics following
 
-Background green indicates normal
+&nbsp;&nbsp;&nbsp;Background green indicates normal
 
-Background red indicates fault
+&nbsp;&nbsp;&nbsp;Background red indicates fault
 
 ![graphics](https://github.com/czwanga/shell/blob/master/Monitoring%20graphics.png)
     
