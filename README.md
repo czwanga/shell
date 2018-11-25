@@ -7,7 +7,8 @@ Function introduction
   
 * monitoring port
 
-* email alarm
+* when  happen fault or recovery normal will be email alarm notification 
+
 
 
 Usage：
